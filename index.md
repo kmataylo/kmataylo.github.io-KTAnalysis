@@ -19,7 +19,7 @@ To explore this idea, I analyzed student responses to the pre-lecture video ques
 
 ### Student Opinions on Pre-Lecture Videos
 
-![Graph 1](images/graph1.png)
+![Graph 1](/kmataylo.github.io-KTAnalysis/images/graph1.png)
 
 This graph shows how students rated the usefulness of pre-lecture videos. A large number of students rated them highly, suggesting strong support for the idea.
 
@@ -27,7 +27,8 @@ This graph shows how students rated the usefulness of pre-lecture videos. A larg
 
 ### Pre-Lecture Videos vs Understanding
 
-![Graph 2](images/graph2.png)
+![Graph 2](/kmataylo.github.io-KTAnalysis/images/graph2.png)
+
 
 This graph compares student interest in pre-lecture videos with their understanding of the course. It helps show whether students who feel less confident are more likely to want additional resources.
 
@@ -35,7 +36,7 @@ This graph compares student interest in pre-lecture videos with their understand
 
 ### Pre-Lecture Videos vs Difficulty
 
-![Graph 3](images/graph3.png)
+![Graph 3](/kmataylo.github.io-KTAnalysis/images/graph3.png)
 
 This graph compares interest in pre-lecture videos with how difficult students find the course. It helps identify whether students who struggle more are more likely to support pre-lecture videos.
 
